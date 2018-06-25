@@ -13,6 +13,9 @@ Demo
 
 To see a demo of audiosynth in action, visit http://keithwhor.com/music/
 
+The same is replicated in keyboard.html, and requires audiosynth.js and audiosynth.view.js.
+Once you play a set of keys, you can playback the sequence using the "Playback" button, or clear the sequence with "Clear".
+
 
 Installation
 ------------
@@ -176,6 +179,7 @@ the work off of which this is based (http://www.sk89q.com/playground/jswav/)
 and Hasen el Judy (http://dev.hasenj.org/post/4517734448) for information regarding Karplus-Strong
 String Synthesis.
 
+Original repo at http://keithwhor.github.io/audiosynth
 
 Further Reading
 ---------------
@@ -196,17 +200,9 @@ http://en.wikipedia.org/wiki/Karplus%E2%80%93Strong_string_synthesis
 http://music.columbia.edu/cmc/musicandcomputers/chapter4/04_09.php
 
 
-Contact
--------
+Original Author Contact
+-----------------------
 
-Feel free to e-mail me at keithwhor at gmail dot com
-
-or follow me on Twitter, @keithwhor
-
+Feel free to e-mail at keithwhor at gmail dot com or follow on Twitter, @keithwhor
 If you like, feel free to share! :) Always appreciated.
 
-View it
--------
-A demo of audiosynth in action is at http://keithwhor.com/music/
-The same is replicated in keyboard.html, and requires audiosynth.js and audiosynth.view.js.
-Once you play a set of keys, you can playback the sequence using the "Playback" button, or clear the sequence with "Clear".
